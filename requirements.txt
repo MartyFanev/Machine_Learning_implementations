@@ -1,0 +1,10 @@
+    Numpy
+    Scipy
+    Scikit-learn
+    Theano
+    TensorFlow
+    Keras
+    torch
+    Pandas
+    Matplotlib
+
